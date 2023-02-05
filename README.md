@@ -1,4 +1,4 @@
-# Plain PHP REST API for MoonLabs
+# Plain PHP REST API for Mo****bs
 
 ## Endpoints
 
