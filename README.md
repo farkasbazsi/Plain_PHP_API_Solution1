@@ -139,4 +139,4 @@ Néhány további feladat, amit megcsinálhatsz, ha kedved és időd tartja.
 Nyugodtan keress minket, ha valami részlet nem teljesen érthető a feladatban.
 
 Jó munkát,
-a MoonLabs csapata
+a _ csapata
